@@ -1,0 +1,27 @@
+*{
+    font-family: 'Merriweather', serif;
+}
+body{
+    background-image: url('https://res.cloudinary.com/dwu1btxcg/image/upload/v1598963560/Migrant/yoann-siloine-dyaxQ-aoGWY-unsplash_ykzu6s.jpg');
+    background-size: cover;
+}
+
+p{
+    background-color: #93A3B1;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    text-align: justify;
+}
+
+.base{
+    padding: 20px;
+}
+article{
+    font-size: medium;
+    text-align: center;
+}
+.qh{
+    text-decoration: underline;
+}
